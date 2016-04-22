@@ -1,6 +1,19 @@
 
 64bit Amazon Linux 2016.03 v2.1.0 running Node.js
  bitjournal.eymccmnzbe.us-east-1.elasticbeanstalk.com 
+ 
+ Todo: 
+ 
+ Publish Text Messages "Journal entrys" to Blockchain.
+ Organize this Journal into a very useable journal.
+ Retrieve Messages from Blockchain
+ 
+ Encrypt messages to blockchain
+ Retrieve encrypted messages from blockchain
+ 
+ add password to encrypted messages
+ add options to expire encryption after 50 years maybe.
+ 
 
 eb-node-express-signup
 ======================
