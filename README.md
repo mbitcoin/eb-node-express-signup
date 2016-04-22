@@ -1,3 +1,7 @@
+
+64bit Amazon Linux 2016.03 v2.1.0 running Node.js
+ bitjournal.eymccmnzbe.us-east-1.elasticbeanstalk.com 
+
 eb-node-express-signup
 ======================
 
