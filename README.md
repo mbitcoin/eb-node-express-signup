@@ -5,13 +5,17 @@
  ##Todo: 
  
  *Publish Text Messages "Journal entrys" to Blockchain.
+ 
  *Organize this Journal into a very useable journal.
+ 
  *Retrieve Messages from Blockchain
  
  *Encrypt messages to blockchain
+ 
  *Retrieve encrypted messages from blockchain
  
  *add password to encrypted messages
+ 
  *add options to expire encryption after 50 years maybe.
  
 
