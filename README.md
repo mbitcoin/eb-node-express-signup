@@ -1,6 +1,6 @@
 
 64bit Amazon Linux 2016.03 v2.1.0 running Node.js
- bitjournal.eymccmnzbe.us-east-1.elasticbeanstalk.com 
+ http://bitjournal.eymccmnzbe.us-east-1.elasticbeanstalk.com 
  
  ##Todo: 
  
@@ -18,6 +18,7 @@
  
  *add options to expire encryption after 50 years maybe.
  
+ *ssl SECURITY!!?!?
 
 eb-node-express-signup
 ======================
